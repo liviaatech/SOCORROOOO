@@ -4,4 +4,8 @@
 # HASHTAG
 ## é
 ## tamanho
-:cat: :dog:  :eye:
+:cat: :dog:  :eye: :baby: :boy: :man: 👯‍♀️
+1. azul
+2. rosa
+3. branco
+>
