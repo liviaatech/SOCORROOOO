@@ -6,4 +6,4 @@
 *não sei
 1. lista ordenada
 2. lista ordenada tem numero e ponto
-   ! [pessoa]
+
