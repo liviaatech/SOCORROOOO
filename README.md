@@ -1,11 +1,5 @@
-### ALGUÉM ME AJUDA PFV
-**TEXTO EM NEGRITO SE USA DOIS ASTERISTICO** 
-*ITALICO É SO UM ASTERISTICO*
-# HASHTAG
-## é
-## tamanho
-:cat: :dog:  :eye: :baby: :boy: :man: 👯‍♀️
-1. azul
-2. rosa
-3. branco
->
+1 _Itálico pode ser usado com '*' ou '_' _
+2 **negrito se usa dois aesteristicos '*'  ou dois underlines '__'**
+~~riscado~~
+
+
